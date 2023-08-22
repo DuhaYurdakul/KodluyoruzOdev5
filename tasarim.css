@@ -1,0 +1,74 @@
+
+body {
+    background-image: url("https://picsum.photos/id/145/1530/1500");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+   }
+
+  /* Giriş yazıları ve navigatör text şablonları*/
+   h1, h2 {
+    color: burlywood;
+    text-align: center;
+   }
+   nav {
+    color: burlywood;
+    text-align: center;
+    font-size: 35px;
+   }
+   a {
+    color: burlywood;
+   }
+  ent {
+    color: burlywood;
+    font-size: 55px;
+  }
+
+       /* ID'S */
+        
+       .divi {
+      
+        border:6px outset rgb(255, 255, 255);
+        background:rgb(54, 56, 45);
+        border-style: double; 
+       }
+       .img {
+        border: solid;
+       }
+       
+       .divi2 {
+        border:2px outset;
+        border-style: solid;
+       }
+       
+        /* Footer */
+        .foot {
+          font-size: 18px;
+          color: white;
+          font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+          }
+
+      .foot1 {
+        font-size: 25px;
+        color: white;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+      }
+      /* Navigatörler */
+      .navi2 {
+        border-style: double;
+        background:burlywood;
+        color: rgb(54, 56, 45);
+        border-radius: 10px;
+        border-width: 5px; 
+        font-size: 40px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      }
+      .navi {
+        border-style: double;
+        background:rgb(54, 56, 45);
+        border-radius: 12px;
+        border-width: 5px;
+       }
